@@ -15,4 +15,11 @@ Hello, I am a backend developer that (outside of work) mostly works with minecra
   
 -------------------
 
+### Contacts
+You can contact me from the following
+Email: sylus.dev
+Backup email: sylussquared@proton.me
+Website: sylus.dev (Under construction)
+-------------------
+
 Credits: [LachlanDev](https://github.com/LachlanDev) (Thanks for the readme template)
