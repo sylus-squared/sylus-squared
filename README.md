@@ -1,11 +1,11 @@
 <div align="center">
   
 ## About
-Hello, I am a backend developer that, in my free time, mostly works with minecraft, using tools such as spigot, paper and bukit. I make plugins not mods, although the majority of my plungs are private I do post a few here from time to time. I also do some stuff with Python, Javascript and typescript although I don't put that here. However, in the future that might change.
+Hello there, I am a backend developer that, in my free time, mostly works with minecraft, using tools such as spigot, paper and bukit. I make plugins not mods, although the majority of my plungs are private I do post a few here from time to time. I also do some stuff with Python, Javascript and typescript although I don't put that here. However, in the future that might change.
 
 -------------------
 ### Languages  
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 -------------------
 ### Tools
