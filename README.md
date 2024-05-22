@@ -1,7 +1,7 @@
 <div align="center">
   
 ## About
-Hello there, I am a backend developer that, in my free time, mostly works with minecraft, using tools such as spigot, paper and bukit. I make plugins not mods, although the majority of my plungs are private I do post a few here from time to time. I also do some stuff with Python, Javascript and typescript although I don't put that here. However, in the future that might change.
+Hello there, I am a backend developer that, in my free time, mostly works with minecraft, using tools such as spigot, paper and bukit. I make plugins not mods, although the majority of my plugins are private I do post a few here from time to time. I also do some stuff with Python, Javascript and typescript although I don't put that here. However, in the future that might change.
 
 -------------------
 ### Languages  
