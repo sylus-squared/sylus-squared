@@ -15,6 +15,4 @@ Hello there, I am a backend developer that, in my free time, mostly works with m
 -------------------
 ## Contacts
 Main email: sylussquared@proton.me <br/>
--------------------
-Credits: [LachlanDev](https://github.com/LachlanDev) (Thanks for the readme template)
 
