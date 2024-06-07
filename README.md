@@ -14,5 +14,6 @@ Hello there, I am a backend developer that, in my free time, mostly works with m
 
 -------------------
 ## Contacts
-Main email: sylussquared@proton.me <br/>
+Main email: sylus@sylus.dev <br/>
+Backup email email: sylussquared@proton.me <br/>
 
